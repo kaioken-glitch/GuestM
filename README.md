@@ -1,9 +1,10 @@
 # GUEST LIST MANAGER
 ## Languages Used
-![Static Badge](https://img.shields.io/badge/HTML-orange?style=plastic)  ![Static Badge](https://img.shields.io/badge/CSS-purple?style=plastic)   ![Static Badge](https://img.shields.io/badge/JS-yellow?style=plastic)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-purple?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
 
-![Project Logo](https://github.com/kaioken-glitch/GuestM/blob/Screenshot 2025-06-18 094820.png?raw=true)
-
+![Guest List Manager Screenshot](./screenshot.png)
 
 This is a simple guest list manager allowing for the additionand removal of 
 guests from a list, the list is limited to 10 perInvite: it will return an 
