@@ -1,4 +1,5 @@
 # GUEST LIST MANAGER
+## Languages Used
 ![Static Badge](https://img.shields.io/badge/HTMl--orange)  ![Static Badge](https://img.shields.io/badge/CSS--purple)  ![Static Badge](https://img.shields.io/badge/JS--yellow)
 
 
