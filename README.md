@@ -1,13 +1,11 @@
 # GUEST LIST MANAGER
+
 ## Languages Used
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-purple?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-orange?style=plastic)
+![CSS](https://img.shields.io/badge/CSS-purple?style=plastic)
+![JavaScript](https://img.shields.io/badge/JS-yellow?style=plastic)
 
-![Guest List Manager Screenshot](./Screenshot 2025-06-18 094820.png)
+## Preview
+![Guest List Manager Screenshot](./guest-manager.png)
 
-This is a simple guest list manager allowing for the additionand removal of 
-guests from a list, the list is limited to 10 perInvite: it will return an 
-alert if the number of guests exceeds the maximum of 10.
-
-
+This is a simple guest list manager allowing for the addition and removal of guests from a list. The list is limited to 10 per invite: it will return an alert if the number of guests exceeds the maximum of 10.
